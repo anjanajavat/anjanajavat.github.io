@@ -1,0 +1,20 @@
+body {
+ background-color: brown;
+ font-family: arial;
+ text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.a {
+  list-style-type: circle;
+  Text-align:center;
+   list-style-position: inside;
+}
+ul.a {
+  list-style-type: Square;
+  Text-align:center;
+   list-style-position: inside;
+}
